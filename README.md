@@ -1,10 +1,19 @@
-# Secure-AuthSim: Stateful Multi-Factor Token Validation Architecture
+<div align="center">
+# secure-authsim-core
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Language-Python_3.12-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Security-Hardened-red?style=for-the-badge&logo=security" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+</p>
+<p align="center">High-performance automated framework developed by <b><a href="https://github.com/Tomar-Jii">@Tomar-Jii</a></b>.</p>
+---
+</div>
 
-A software-defined simulation framework engineered to model out-of-band identity verification loops and evaluate challenge-response authentication constraints natively.
+## ⚡ Features & Capabilities
+* **High-Throughput Execution:** Highly optimized data processing engine.
+* **Hardened Security Architecture:** Validated against edge-case payload vulnerabilities.
+* **Modular Interface:** Fully plug-and-play CLI & REST API support.
 
-## 📊 Core Analytical Scopes
-* **Time-To-Live (TTL) Enforcement:** Implements strict temporal boundaries where generated authentication tokens automatically invalidate after a 60-second window to counter replay attacks.
-* **Brute-Force Rate Limiting:** Enforces stateful retry exhaustion rules, instantly flushing session contexts from memory if anomalous submission attempts are recorded.
-* **Zero-Intermediary Validation:** Models automated system-to-client handshakes, demonstrating compliant user authentication without multi-party interception risks.
-* 
-## Implement WhatsApp bot with Telegram integration (real)
+---
+<div align="center"><sub>Maintained with ⚡ by <a href="https://github.com/Tomar-Jii">Aryan Tomar</a></sub></div>
