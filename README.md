@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Status-Hardened_Production-success?style=for-the-badge" />
 </p>
 </div>
-
+ 
 ## 🛡️ Overview
 Security simulation engine built to stress-test authorization barriers, detect JWT entropy weaknesses, and simulate complex authentication attacks.
 
